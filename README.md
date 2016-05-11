@@ -14,7 +14,6 @@ Features missing:
 - Shape filling (flood fill)
 
 Code used:
-This project includes: 
 - LCD drivers and a font library created by Steve Gunn (licensed under Creative Commons Attribution License)
 - A svrgb565 color reference library created by Klaus-Peter Zauner (licensed under the MIT license)
 
