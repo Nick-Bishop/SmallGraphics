@@ -13,7 +13,7 @@ Features missing:
 - B-Splines
 - Shape filling (flood fill)
 
-Code used:
+Code used: \n
 This project includes: 
 - LCD drivers and a font library created by Steve Gunn (licensed under Creative Commons Attribution License)
 - A svrgb565 color reference library created by Klaus-Peter Zauner (licensed under the MIT license)
