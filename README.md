@@ -1,5 +1,5 @@
 # SmallGraphics
-This code is intended to be a small graphics library for the LaFortuna to make ti easier to draw onto the screen.
+This code is intended to be a small graphics library for the LaFortuna to make it easier to draw onto the screen.
 
 Features:
 - Bresenham Lines
